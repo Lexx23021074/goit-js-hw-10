@@ -11,6 +11,9 @@
 @import url('./animations.css');
 
 /* Sections style */
+@import url('./1-timer.css');
+@import url('./2-snackbar.css');
+@import url('./header.css');
 @import url('./header.css');
 @import url('./vite-promo.css');
 @import url('./badges.css');
